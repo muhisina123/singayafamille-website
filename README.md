@@ -1,7 +1,18 @@
 # Singaya Famille 🌍❤️
 
 **Singaya Famille** is a project for an association that provides visitors with essential information about its mission to help poor and needy children.
- 
+
+ ## Screenshots
+
+### Home Page
+![Home Page](https://github.com/muhisina123/singayafamille/blob/main/home-page.png)
+
+### Mission Page
+![Mission Page](https://github.com/muhisina123/singayafamille/blob/main/mission-page.png
+
+### contact Page
+![contact Page](https://github.com/muhisina123/singayafamille/blob/main/mission-page.png
+
 ## Database Import
 
 To set up the database structure, you can import the `visitors_structure.sql` file into your MySQL database using the following command:
