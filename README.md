@@ -8,7 +8,7 @@
 ![Home Page](https://github.com/muhisina123/singayafamille/blob/main/home-page.png)
 
 ### Mission Page
-![Mission Page](https://github.com/muhisina123/singayafamille/blob/main/mission-page.png
+![Mission Page](https://github.com/muhisina123/singayafamille-website/blob/main/localhost_singayafamille_mission.php.png)
 
 ### contact Page
 ![contact Page](https://github.com/muhisina123/singayafamille-website/blob/main/localhost_singayafamille_contact.php.png)
