@@ -2,6 +2,13 @@
 
 **Singaya Famille** is a project for an association that provides visitors with essential information about its mission to help poor and needy children.
 
+## Database Import
+
+To set up the database structure, you can import the `visitors_structure.sql` file into your MySQL database using the following command:
+
+```bash
+mysql -u username -p database_name < visitors_structure.sql
+
 ## 🌟 Features
 - 📜 **Home Page** – Overview of the association
 - 🎯 **Mission Page** – Details on how the association supports children
