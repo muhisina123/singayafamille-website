@@ -5,7 +5,7 @@
  ## Screenshots
 
 ### Home Page
-![Home Page](https://github.com/muhisina123/singayafamille/blob/main/home-page.png)
+![Home Page](https://github.com/muhisina123/singayafamille-website/blob/main/localhost_singayafamille_.png)
 
 ### Mission Page
 ![Mission Page](https://github.com/muhisina123/singayafamille-website/blob/main/localhost_singayafamille_mission.php.png)
